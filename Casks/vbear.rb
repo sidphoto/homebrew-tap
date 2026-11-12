@@ -1,6 +1,6 @@
 cask "vbear" do
-  version "0.25.2"
-  sha256 "c68aeb7e9b8a387cc4254474c2aca0b11d50f297f5bb14ae3f57bc0eeb0f6224"
+  version "0.25.3"
+  sha256 "bc41224230f7c0185fac14693ae5303837d701999bac099a8b78a8fac197dbb5"
 
   url "https://github.com/sidphoto/vbear/releases/download/v#{version}/VBear-#{version}-arm64.dmg"
   name "VBear"
